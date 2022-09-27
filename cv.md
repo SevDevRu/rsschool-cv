@@ -29,7 +29,7 @@ I am currently studying web development in order to change the type of activity.
 
 6. Editors: Sublime Text, VSCode
 
-## Code Examples
+## Code Examples 
 -------------
 
 ```
