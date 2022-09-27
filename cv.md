@@ -15,7 +15,7 @@
 ------------
 I am currently studying web development in order to change the type of activity. My goal is to learn (remember) how programming problems are solved and strives to study more complex IT problems. I want to gain knowledge and skills.
 
-## Skill
+## Skill 
 --------------
 1. CS50 video 
 
